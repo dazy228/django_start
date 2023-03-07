@@ -2,5 +2,8 @@ li a {
     color: green;
 }
 body {
-    background: white url("images/background.mov") no-repeat;
+    background: white url("images/background.jpg") no-repeat;
+}
+* {
+    font-family: "Times New Roman", Times, serif;
 }
